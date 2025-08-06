@@ -1,4 +1,4 @@
-# Disease Case Analysis (COVID-19 Dataset)
+# Disease Case Analysis (Respiratory Disease Dataset)
 
 This project focuses on cleaning, transforming, analyzing, and visualizing disease case data using SQL and Python. The primary objective is to explore patterns in demographics, locations, patient conditions, and trends over time.
 
